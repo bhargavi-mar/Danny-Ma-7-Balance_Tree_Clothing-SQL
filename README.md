@@ -5,6 +5,9 @@ Balanced Tree Clothing Company prides themselves on providing an optimized range
 Danny, the CEO of this trendy fashion company, has asked you to assist the merchandising teams in analyzing their sales performance and generating a basic financial report to share with the wider business.
 
 ## Data Overview
+![199987521-b92c9ea7-3aa3-499f-9480-f05b31de9b58](https://github.com/user-attachments/assets/9c157024-ed18-46bc-ae62-7ea6b6609598)
+![199987654-65cb6974-93c2-4c17-83ba-78f0ca7af532](https://github.com/user-attachments/assets/dbcd86b5-9fa3-49f9-a982-ccd804cffba9)
+![199987769-fb0a7363-d025-4d15-951e-6e779b733df6](https://github.com/user-attachments/assets/9642782d-8b34-480f-9ade-f58385f689f3)
 
 ### Product Details
 The `balanced_tree.product_details` includes all information about the entire range that Balanced Clothing sells in their store.
